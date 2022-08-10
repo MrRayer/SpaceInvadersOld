@@ -1,0 +1,17 @@
+C:\csPractice\SpaceInvaders\bin\x64\Debug\SpaceInvaders.exe.config
+C:\csPractice\SpaceInvaders\bin\x64\Debug\SpaceInvaders.exe
+C:\csPractice\SpaceInvaders\bin\x64\Debug\SpaceInvaders.pdb
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.csproj.AssemblyReference.cache
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.csproj.SuggestedBindingRedirects.cache
+C:\csPractice\SpaceInvaders\obj\x64\Debug\MainWindow.g.cs
+C:\csPractice\SpaceInvaders\obj\x64\Debug\App.g.cs
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders_MarkupCompile.cache
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders_MarkupCompile.lref
+C:\csPractice\SpaceInvaders\obj\x64\Debug\MainWindow.baml
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.g.resources
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.Properties.Resources.resources
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.csproj.GenerateResource.cache
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.exe
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders.pdb
+C:\csPractice\SpaceInvaders\obj\x64\Debug\SpaceInvaders_Content.g.cs
